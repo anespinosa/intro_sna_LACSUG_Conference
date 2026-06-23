@@ -104,3 +104,6 @@ The document is plain R Markdown so it renders with `rmarkdown` +
 - The Chilean Society for Social Network Science
   [(CHISOCNET)](https://chisocnet.org): To gain access to the mailing
   list, please contact Alejandro Espinosa-Rada.
+
+- Social Networks – UC Research Group
+  [UC-Networks](https://www.aespinosarada.com/projects/social-networks-group-uc).

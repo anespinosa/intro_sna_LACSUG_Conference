@@ -85,5 +85,6 @@ the same content works as a `.qmd` with only a YAML tweak.
     [(INSNA)](https://www.insna.org/news/knitting-networks-podcast).
 -   The Chilean Society for Social Network Science
     [(CHISOCNET)](https://chisocnet.org): To gain access to the mailing list, please contact Alejandro Espinosa-Rada.
+- Social Networks – UC Research Group [UC-Networks](https://www.aespinosarada.com/projects/social-networks-group-uc).
 
 
