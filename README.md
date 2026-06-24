@@ -14,7 +14,7 @@ matrix algebra.
 **Author:** 🖊 [Alejandro Espinosa-Rada](https://www.aespinosarada.com) —
 Institute of Sociology, Pontificia Universidad Católica de Chile.
 
-# Presented at:
+## Presented at:
 
 [2nd LACSUG Conference](https://lansug.org/LACSUG_CHILE.html)
 Subnational Governance in Latin America: Building Effective Institutions
